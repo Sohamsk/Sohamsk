@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sohamsk.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript & its frameworks.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- - 💞️ I’m looking to collaborate on ... - -->
+<!-- - 📫 You can reach me  -->
 
 <!---
 Sohamsk/Sohamsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
