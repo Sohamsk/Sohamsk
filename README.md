@@ -5,6 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 # Hey there, I'm Soham! 👋
 
+## 🚀 About Me
+- 👀 I’m interested in Game Development & Web Development.
+- 🌱 I’m currently learning React.
+- 📫 You can reach me using my [Twitter](https://twitter.com/sohamsk02/) or [Linkedin](https://www.linkedin.com/in/sohamsk02/).
 
 ## 🛠 Skills
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -13,10 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
-## 🚀 About Me
-- 👀 I’m interested in Game Development & Web Development.
-- 🌱 I’m currently learning React.
-- 📫 You can reach me using my [Twitter](https://twitter.com/sohamsk02/) or [Linkedin](https://www.linkedin.com/in/sohamsk02/).
 
 
 ## 🔗 Links
