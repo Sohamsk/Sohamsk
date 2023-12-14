@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me
 - 👀 I’m interested in Game Development & Web Development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Rust.
 - 📫 You can reach me using my [Twitter](https://twitter.com/sohamsk02/) or [Linkedin](https://www.linkedin.com/in/sohamsk02/).
 
 ## 🛠 Skills
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
