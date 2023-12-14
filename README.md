@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me
 - 👀 I’m interested in Game Development & Web Development.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust and Java Spring Boot.
 - 📫 You can reach me using my [Twitter](https://twitter.com/sohamsk02/) or [Linkedin](https://www.linkedin.com/in/sohamsk02/).
 
 ## 🛠 Skills
