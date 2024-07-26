@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 # Hey there, I'm Soham! 👋
 
 ## 🚀 About Me
-- 👀 I’m interested in Game Development & Web Development.
-- 🌱 I’m currently learning Rust.
+- 👀 I’m interested in system apps development and working in low level languages.
+- 🌱 I’m currently learning GO.
 - 📫 You can reach me using my [Twitter](https://twitter.com/sohamsk02/) or [Linkedin](https://www.linkedin.com/in/sohamsk02/).
 
 ## 🛠 Skills
